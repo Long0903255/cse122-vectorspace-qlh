@@ -1,22 +1,22 @@
 # Bảng phân công
 
-| Tên màn hình | | Chức năng | | Người phụ trách | | Hạn hoàn thành |
+| Tên màn hình | Chức năng | Người phụ trách | Hạn hoàn thành |
 |---|---|---|---|
-| Trang chủ | | Xem bài giảng & minh họa vector công khai | | SV1 | |---|
-| Trang khóa học | | Xem danh sách khóa | | SV1 | |---|
-| Gallery vector | | Duyệt minh họa không gian vector | | SV1 | |---|
-| Học  | | Xem bài giảng kèm mô phỏng vector | | SV1 | |---|
-| Làm bài  | | Làm bài tập có lời giải từng bước | | SV1 | |---|
-| Làm đề kiểm tra | | Làm đề kiểm tra | | SV1 | |---|
-| Bảng điểm của tôi | | Xem điểm, lịch sử, tiến độ | | SV1 | |---|
-| Flashcard | | Ôn với flashcards khái niệm | | SV1 | |---|
-| Soạn bài giảng | | Soạn bài giảng có mô phỏng | | SV2 | |---|
-| Quản lý bài tập & đề | | Quản lý bài tập, đề | | SV2 | |---|
-| Chấm bài | | Chấm bài, nhận xét | | SV2 | |---|
-| Thống kê lớp học | | Xem biểu đồ điểm, độ khó câu hỏi | | SV2 | |---|
-| Quản lý tài khoản | | Duyệt/hủy tài khoản | | SV3 | |---|
-| Quản lý khóa học | | Tạo khóa, sắp xếp chương | | SV3 | |---|
-| Bảng điều khiển admin | | Cấu hình, xem báo cáo tổng | | SV3 | |---|
+| Trang chủ | Xem bài giảng & minh họa vector công khai | SV1 |---|
+| Trang khóa học | Xem danh sách khóa | SV1 |---|
+| Gallery vector | Duyệt minh họa không gian vector | SV1 |---|
+| Học  | Xem bài giảng kèm mô phỏng vector | SV1  |---|
+| Làm bài  | Làm bài tập có lời giải từng bước |  SV1 |---|
+| Làm đề kiểm tra | Làm đề kiểm tra | SV1 |---|
+| Bảng điểm của tôi | Xem điểm, lịch sử, tiến độ | SV1 |---|
+| Flashcard | Ôn với flashcards khái niệm | SV1 |---|
+| Soạn bài giảng | Soạn bài giảng có mô phỏng | SV2 |---|
+| Quản lý bài tập & đề | Quản lý bài tập, đề | SV2 |---|
+| Chấm bài | Chấm bài, nhận xét | SV2 |---|
+| Thống kê lớp học | Xem biểu đồ điểm, độ khó câu hỏi | SV2 |---|
+| Quản lý tài khoản | Duyệt/hủy tài khoản | SV3 |---|
+| Quản lý khóa học | Tạo khóa, sắp xếp chương | SV3 |---|
+| Bảng điều khiển admin | Cấu hình, xem báo cáo tổng | SV3 |---|
 
 # Phân công nhóm 3 sinh viên
 - SV1
